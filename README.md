@@ -1,2 +1,2 @@
 # gcc-aarch64-linux-gnu
-g++ crosschain (aarch64 target) for PizzaFactory/Camino
+Eclipse/Contorno side dish image that contains g++ crosschain (aarch64 target).
