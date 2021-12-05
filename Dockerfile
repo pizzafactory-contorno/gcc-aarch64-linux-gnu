@@ -1,4 +1,5 @@
-FROM pizzafactory0contorno/piatto:debian-10.1
+ARG BASE_IMAGE
+FROM ${BASE_IMAGE}
 
 USER root
 RUN apt-get update && \
