@@ -1,4 +1,4 @@
-FROM pizzafactory0contorno/piatto:debian-10.1
+FROM pizzafactory0contorno/piatto:debian-11.1
 
 USER root
 RUN apt-get update && \
